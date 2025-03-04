@@ -1,8 +1,8 @@
 /* 🎨 Your Custom Styles */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #ffffff;
-    color: #333;
+    background-color: #a5f8ca;
+    color: #096e44;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -31,4 +31,14 @@ section {
 footer {
     /* missing css */
     padding: 10px;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+h1 {
+    color: black;
+
 }
